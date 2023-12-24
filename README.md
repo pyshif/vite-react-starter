@@ -10,6 +10,7 @@ Currently, two official plugins are available:
 ## Note
 
 - Install WSL Ubuntu 22.04
+- Install Ngrok (optional)
 - Install VSCode + WSL extension and waiting VSCode server, Prettier
 - Ubuntu apt update (optional)
 - Install nvm (node version manager)
@@ -21,6 +22,7 @@ Currently, two official plugins are available:
 - Add previous ssh command into .bashrc
 - Copy public key to GitHub
 - Clone repo
+- Rename repo, vite.config.js base url, PWA
 - Install project package
 - Run server
 
@@ -28,3 +30,18 @@ Currently, two official plugins are available:
 
 - PWA
 - GA4, GTM
+
+## 網站 Title + Icon
+
+`index.html` 中修改
+
+## 頁面（路由）
+
+- 開始測驗
+- 測驗題目
+- 測驗結果
+
+
+## PWA
+
+> https://progressier.com/pwa-manifest-generator
